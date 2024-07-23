@@ -646,3 +646,12 @@ nav {
     justify-content: flex-end;
   }
 }
+.experience__card h4 {
+   margin-top: 20px;   
+    margin-bottom: 20px;    
+}
+        
+ .experience__card {
+  margin-bottom: 40px;    
+  }
+       
